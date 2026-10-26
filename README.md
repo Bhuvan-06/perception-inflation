@@ -9,8 +9,12 @@ Search interest in "inflation" moves with official CPI inflation, not ahead
 of it. On levels, the correlation is 0.37 with CPI and 0.26 with Michigan
 inflation expectations, strongest at zero lag and fading to zero by month
 five. On month-to-month changes the relationship is weak (0.22 at best) and
-it disappears in a held-out 2024-onward period. [Add one sentence here on
-the reverse-direction check: whether CPI leads search interest.]
+it disappears in a held-out 2024-onward period. The reverse direction is stronger: CPI from one to six months earlier
+correlates 0.33 to 0.39 with current search interest, with no decay, while
+search interest leading CPI fades to zero by about month five. That
+asymmetry is consistent with people searching after inflation shows up in
+prices, though slow-moving trending series can flatten lag correlations, so
+this is suggestive, not proof.
 
 ## Data
 - CPI (CPIAUCSL) and University of Michigan 1-year inflation expectations
