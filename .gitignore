@@ -3,3 +3,6 @@
 .DS_Store
 __pycache__/
 *.parquet
+data/reddit_*
+data/titles_scored.pkl
+data/audit_sample.csv
